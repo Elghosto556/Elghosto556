@@ -2,11 +2,14 @@
 
 Meu nome é Davidy
 
-- Estou " estudando " no Alura;
+- Estou " estudando " no [Alura](alura.com.br);
 - Estou desenvolvendo na linguagem JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
   ### Você pode entrar em contato comigo:
 
   davidyrodrigues4@gmail.com
-  ![]([https://tenor.com/pt-PT/view/w-arknights-arknights-dance-gif-25199998)
+
+
+  ![](https://media1.tenor.com/m/E4ReoaN2CLYAAAAd/w-arknights-arknights.gif)
+
